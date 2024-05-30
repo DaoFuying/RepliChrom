@@ -10,9 +10,9 @@ We developed a computational approach, named RepliChrom, to predict enhancer-pro
 The scripts were written in R and Python language.
 
 To run the scripts, you need several R and Python packages. To install the packages:
-"install.packages(c("pROC","ROCR","ranger"))" by R \
-"pip install pandas, numpy" in conda envoriment \ 
-"conda install -c bioconda bedtools" in conda envoriment \
+`"install.packages(c("pROC","ROCR","ranger"))" by R ` \
+`"pip install pandas, numpy" in conda envoriment ` \ 
+`"conda install -c bioconda bedtools" in conda envoriment ` \
 
 
 **Script usage**
