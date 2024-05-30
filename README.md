@@ -15,7 +15,7 @@ To run the scripts, you need several R and Python packages. To install the packa
 `biocLite("BSgenome.Hsapiens.UCSC.hg19")` \
 `biocLite("BSgenome.Hsapiens.UCSC.hg19.masked")` \
 `biocLite("JASPAR2018")` \
-`biocLite("TFBSTools")` \
+`biocLite("TFBSTools")` 
 
 
 
