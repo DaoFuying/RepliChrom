@@ -16,4 +16,6 @@ To run the scripts, you need several R and Python packages. To install the packa
 
 
 **Script usage**
+Extracting replication timing features by callBinRT.py
+`python callBinRT.py loopfile RTfile outpath outfile` \
 
