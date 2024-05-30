@@ -9,13 +9,9 @@ RepliChrom is a computational method to predict enhancer-promoter interactions b
 The scripts were written in R and Python language.
 
 To run the scripts, you need several R and Python packages. To install the packages:
-`install.packages(c("pROC","glmnet","ranger","Matrix","ROCR"))` \
-`source("https://bioconductor.org/biocLite.R")` \
-`biocLite("BSgenome.Hsapiens.UCSC.hg19")` \
-`biocLite("BSgenome.Hsapiens.UCSC.hg19.masked")` \
-`biocLite("JASPAR2018")` \
-`biocLite("TFBSTools")` 
-
+`install.packages(c("pROC","ranger","ROCR"))` \
+`conda install pandas, numpy` \
+`conda install bedtools`
 
 
 
