@@ -1,6 +1,5 @@
 # RepliChrom
 
-**Overview**
 RepliChrom is a computational method to predict enhancer-promoter interactions based on replication timing features. Model prediction results of six cell types demonstrate that replication timing signals effectively predict enhancer-promoter interactions. As a proof-of-principle, we applied RepliChrom to identify interactions from various chromatin conformation capture technologies, such as Hi-C, Hi-TrAC, ChIA-PET, and 5C. Moreover, we leveraged RepliChrom to screen significant chromatin interactions in acute lymphoblastic leukemia samples, differentiating them precisely from normal samples. This work uncovers that replication timing signals shape the three-dimensional structure of fine-grained regulatory interactions.
 
 ![image](workflow.png)
