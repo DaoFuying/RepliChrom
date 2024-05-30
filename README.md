@@ -1,1 +1,18 @@
 # RepliChrom
+
+**Overview**
+![image](workflow.png)
+
+We developed a computational approach to predict enhancer-promoter interactions (EPIs) using DNA replication timing (RT) signals.
+
+**Systems Requirements**
+
+The scripts were written in R and Python language.
+
+To run the scripts, you need several R and Python packages. To install the packages:
+"install.packages(c("pROC","ROCR","ranger"))" by R \
+"pip install pandas, numpy" in conda envoriment \ 
+"conda install -c bioconda bedtools" in conda envoriment\
+
+**Script usage**
+
