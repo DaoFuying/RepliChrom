@@ -22,5 +22,6 @@ Traning model by Random Forest method by `trainbyRF_5fold.R` (5-fold validation)
 Model predition by `predictByModel.R`. 
 
 Here we have K562 as an example to use these script. \
-`python callBinRT.py Hi-C data/K562_pairs_1-20.bedpe RTdata/RT_K562_BoneMarrowLymphoblast_Int37482971_hg19.bedgraph output K562_RT_feafile.csv` 
+`python callBinRT.py Hi-C_data/K562_pairs_1-20_test.bedpe RTdata/RT_K562_BoneMarrowLymphoblast_Int37482971_hg19.bedgraph output K562_pairs_1-20.bedpe.binsRTfea_test.csv ` \
+
 
