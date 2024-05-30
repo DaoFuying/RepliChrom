@@ -19,7 +19,7 @@ To run the scripts, you need several R and Python packages. To install the packa
 
 Extracting replication timing features by `callBinRT.py`. \
 Traning model by Random Forest method by `trainbyRF_5fold.R` (5-fold validation) and `trainbyRF_100times.R` (multiple traning validation). \
-Model predition by `predictByModel.R`. \
+Model predition by `predictByModel.R`. 
 
 Here we have K562 as an example to use these script. \
 `python callBinRT.py data/loopfile RTfile outpath outfile` 
