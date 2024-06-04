@@ -24,10 +24,11 @@ Model predition by `predictByModel.R`.
 
 Here we have K562 as an example to use these scripts. \
 `python callBinRT.py Hi-C_data/K562_pairs_1-20_test.bedpe RTdata/RT_K562_BoneMarrowLymphoblast_Int37482971_hg19.bedgraph output\ K562_pairs_1-20.bedpe.binsRTfea_test.csv ` 
-`Rscript trainbyRF_5fold.R output\K562_pairs_1-20.bedpe.binsRTfea_test.csv `
-`Rscript trainbyRF_100times.R output\K562_pairs_1-20.bedpe.binsRTfea_test.csv `
+`Rscript trainbyRF_5fold.R output\K562_pairs_1-20.bedpe.binsRTfea_test.csv ` \
+`Rscript trainbyRF_100times.R output\K562_pairs_1-20.bedpe.binsRTfea_test.csv ` 
 
 **Acknowledgements**
+
 This work was supported by the National Nature Scientific Foundation of China (82130112) and China Postdoctoral Science Foundation (2023TQ0047, GZC20230380). This research is also supported by the Ministry of Education, Singapore, under its Academic Research Fund Tier 1 (RT5/22) awarded to M.J.F. (PI). This research is supported by the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship awarded to FYD.
 
 
