@@ -30,7 +30,7 @@ Here we have K562 as an example to use these scripts. \
 
 **Acknowledgements**
 
-This work was supported by the National Nature Scientific Foundation of China (82130112) and China Postdoctoral Science Foundation (2023TQ0047, GZC20230380). This research is also supported by the Ministry of Education, Singapore, under its Academic Research Fund Tier 1 (RT5/22) awarded to M.J.F. (PI). This research is supported by the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship awarded to FYD.
+This work was supported by the National Nature Scientific Foundation of China (82130112) and China Postdoctoral Science Foundation (2023TQ0047, GZC20230380). This research is also supported by the Ministry of Education, Singapore, under its Academic Research Fund Tier 1 Thematic (RT5/22) awarded to M.J.F. (PI). This research is supported by the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship awarded to FYD.
 
 
 
