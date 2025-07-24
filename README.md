@@ -30,7 +30,6 @@ Here we have K562 as an example to use these scripts. \
 
 **Acknowledgements**
 
-This work was supported by the National Nature Scientific Foundation of China (82130112) and China Postdoctoral Science Foundation (2023TQ0047, GZC20230380). This research is also supported by the Ministry of Education, Singapore, under its Academic Research Fund Tier 1 Thematic (RT5/22) awarded to M.J.F. (PI). This research is supported by the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship awarded to FYD.
-
+This study was supported by the National Nature Scientific Foundation of China (62172078, 62402089, 62373079), China Postdoctoral Science Foundation (2023TQ0047, GZC20230380). This study was also supported by the National Research Foundation, Singapore under its AI Singapore Programme (AISG Award No: AISG3-GV-2023-014) and by the Ministry of Education, Singapore under its Academic Research Fund Tier 1 Thematic (RT5/22), both awarded to Melissa J. Fullwood (PI). Thanks to the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship for supporting Fuying Dao.
 
 
